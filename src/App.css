@@ -1,38 +1,43 @@
 .App {
-  text-align: center;
+    height: 100vh;
+    background-color: #fcfcfc;
+    position: relative;
+    overflow-y: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.overflow-recentNotes {
+    overflow: auto;
+    max-height: calc(100vh - 7rem);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* .overflow-content {
+    overflow: auto;
+    max-height: calc(100vh - 5.75rem);
+} */
+
+.input-title {
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    border: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.input-textarea {
+    height: calc(100vh - 8.5rem);
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    resize: none;
+    /* overflow: hidden; */
 }
 
-.App-link {
-  color: #61dafb;
+.note-list {
+    cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.alert {
+    position: absolute;
+    bottom: 1rem;
+    right: 1.75rem;
 }
