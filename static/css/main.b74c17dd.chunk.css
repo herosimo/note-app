@@ -1,0 +1,2 @@
+.App{height:100vh;background-color:#fcfcfc;position:relative;overflow-y:hidden}.overflow-recentNotes{overflow:auto;max-height:calc(100vh - 7rem)}.input-textarea,.input-title{width:100%;background-color:transparent;outline:none;border:none}.input-textarea{height:calc(100vh - 8.5rem);resize:none}.note-list{cursor:pointer}.alert{position:absolute;bottom:1rem;right:1.75rem}
+/*# sourceMappingURL=main.b74c17dd.chunk.css.map */
