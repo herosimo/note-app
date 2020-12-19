@@ -117,7 +117,7 @@ function App() {
         <div className="App">
             <div className="container-fluid py-3">
                 <div className="row">
-                    <div className="col-4">
+                    <div className="col-md-4 mb-3 mb-md-0">
                         <Navbar
                             addNoteHandler={addNoteHandler}
                             noteLists={noteLists}
@@ -125,7 +125,7 @@ function App() {
                             activeNoteId={activeNoteId}
                         />
                     </div>
-                    <div className="col-8">{contentBar}</div>
+                    <div className="col-md-8">{contentBar}</div>
                 </div>
             </div>
 
