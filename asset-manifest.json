@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/note-app/static/css/main.b74c17dd.chunk.css",
-    "main.js": "/note-app/static/js/main.dbfe33f9.chunk.js",
-    "main.js.map": "/note-app/static/js/main.dbfe33f9.chunk.js.map",
+    "main.css": "/note-app/static/css/main.e77ea4d5.chunk.css",
+    "main.js": "/note-app/static/js/main.f5d3b4e7.chunk.js",
+    "main.js.map": "/note-app/static/js/main.f5d3b4e7.chunk.js.map",
     "runtime-main.js": "/note-app/static/js/runtime-main.7f39f972.js",
     "runtime-main.js.map": "/note-app/static/js/runtime-main.7f39f972.js.map",
     "static/js/2.5623a3fa.chunk.js": "/note-app/static/js/2.5623a3fa.chunk.js",
     "static/js/2.5623a3fa.chunk.js.map": "/note-app/static/js/2.5623a3fa.chunk.js.map",
     "index.html": "/note-app/index.html",
-    "precache-manifest.867f0eb4e3a5e5c5b8b6b9c0e1d871a8.js": "/note-app/precache-manifest.867f0eb4e3a5e5c5b8b6b9c0e1d871a8.js",
+    "precache-manifest.e46ba2bdfebf708fccde5d2f9801edd5.js": "/note-app/precache-manifest.e46ba2bdfebf708fccde5d2f9801edd5.js",
     "service-worker.js": "/note-app/service-worker.js",
-    "static/css/main.b74c17dd.chunk.css.map": "/note-app/static/css/main.b74c17dd.chunk.css.map",
+    "static/css/main.e77ea4d5.chunk.css.map": "/note-app/static/css/main.e77ea4d5.chunk.css.map",
     "static/js/2.5623a3fa.chunk.js.LICENSE.txt": "/note-app/static/js/2.5623a3fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f39f972.js",
     "static/js/2.5623a3fa.chunk.js",
-    "static/css/main.b74c17dd.chunk.css",
-    "static/js/main.dbfe33f9.chunk.js"
+    "static/css/main.e77ea4d5.chunk.css",
+    "static/js/main.f5d3b4e7.chunk.js"
   ]
 }
